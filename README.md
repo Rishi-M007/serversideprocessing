@@ -118,10 +118,9 @@ def rectarea(request):
     return render(request,'myapp/math.html',context)
 ```
 ## OUTPUT:
-
-
+![output](./exp5.png)
+ 
 ### Home Page:
-
-
+![output](./exp5-2.png)
 ## Result:
-
+The program for implementing server side processing is completed successfully.
